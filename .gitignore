@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -6,3 +7,14 @@
 .DS_Store
 /build
 /captures
+=======
+*.DS_Store
+bin
+target
+.classpath
+.project
+.settings
+src/main/webapp/META-INF
+.idea
+*.iml
+>>>>>>> 244c77cf6a5e794d517b046836b974770b61ae03
